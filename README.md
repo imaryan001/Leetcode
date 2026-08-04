@@ -1,4 +1,4 @@
-# DSA Questions in Python  
+# DSA Questions in Python   
 
 This repository contains my solutions to Data Structures and Algorithms (DSA) problems solved in Python.
 
