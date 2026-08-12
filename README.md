@@ -4,7 +4,7 @@ This repository contains my solutions to Data  Structures and Algorithms (DSA) p
 
 ## Topics Covered  
 - Arrays
-- Strings
+- Strings 
 - Linked List
 - Stack
 - Queue
