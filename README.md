@@ -3,7 +3,7 @@
 This repository contains my solutions to Data  Structures and Algorithms (DSA) problems solved in Python.
   
 ## Topics Covered     
-- Arrays
+- Arrays 
 - Strings 
 - Linked List
 - Stack
